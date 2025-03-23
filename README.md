@@ -120,4 +120,4 @@ Conclusion
 This SFML-based Snake Game provides an engaging and fun experience while demonstrating key game development concepts. It features smooth movement, collision handling, sound effects, and dynamic difficulty adjustment.
 
 
-#OUTPUT
+#OUTPUT:![Image](https://github.com/user-attachments/assets/696e7608-86f3-4adc-9e82-5760ec0ffa94)
